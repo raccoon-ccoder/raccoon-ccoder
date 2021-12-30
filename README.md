@@ -1,4 +1,5 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=raccoon-ccoder&show_icons=true&theme=gotham)
+![kmsbio's GitHub stats](https://github-readme-stats.vercel.app/api?username=raccoon-ccoder&theme=gotham&hide=issues,stars)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raccoon-ccoder&langs_count=10&layout=compact&theme=gotham)
 
 <!--
 **raccoon-ccoder/raccoon-ccoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
